@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32da4d032eb79a645be9c1ec10914298
+guid: 75ba2ccaa8b5a774c929308ead6f06c8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,43 +107,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pacfront_0
+      name: Ghost 4 base_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 1
+        y: 18
+        width: 14
+        height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d5e818b857da5c4ab0326bdd822724d
-      internalID: -810720572
+      spriteID: 86cbf516ff533154195fa6b0e04a183c
+      internalID: 1922063772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacfront_1
+      name: Ghost 4 base_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 1
+        y: 2
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd58df4bf57fd049b3585c161cade42
-      internalID: 940180241
+      spriteID: 89b7a10f86c5cb542b51d5d9917266a4
+      internalID: -830823773
       vertices: []
       indices: 
       edges: []
@@ -159,8 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pacfront_0: -810720572
-      Pacfront_1: 940180241
+      Ghost 4 base_0: 1922063772
+      Ghost 4 base_1: -830823773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

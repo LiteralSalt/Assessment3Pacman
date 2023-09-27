@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32da4d032eb79a645be9c1ec10914298
+guid: 3352636543179544b8a5d8ebef570a8b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,43 +107,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pacfront_0
+      name: Pacdead_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 4
+        y: 17
+        width: 8
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d5e818b857da5c4ab0326bdd822724d
-      internalID: -810720572
+      spriteID: f6da7ec08c0545143a9964e4c2fb3523
+      internalID: 757317488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacfront_1
+      name: Pacdead_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 20
+        y: 17
+        width: 8
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd58df4bf57fd049b3585c161cade42
-      internalID: 940180241
+      spriteID: c27c01dd97e8d8d4dbde04f151203309
+      internalID: 130565785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacdead_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a32ff8cf8c17641a8b9c352e8b18f8
+      internalID: -404417158
       vertices: []
       indices: 
       edges: []
@@ -159,8 +180,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pacfront_0: -810720572
-      Pacfront_1: 940180241
+      Pacdead_0: 757317488
+      Pacdead_1: 130565785
+      Pacdead_2: -404417158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

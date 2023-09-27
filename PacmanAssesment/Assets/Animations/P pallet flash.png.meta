@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32da4d032eb79a645be9c1ec10914298
+guid: 7417c40cc684f864e9e876170b5c30ce
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,28 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pacfront_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d5e818b857da5c4ab0326bdd822724d
-      internalID: -810720572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pacfront_1
+      name: P pallet flash_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,14 +115,35 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd58df4bf57fd049b3585c161cade42
-      internalID: 940180241
+      spriteID: 1794b1ad982c55c4888332833b49ca74
+      internalID: 1544107791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P pallet flash_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a579154e4fc4bc44b0daa6962d2e83b
+      internalID: 1662480796
       vertices: []
       indices: 
       edges: []
@@ -159,8 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pacfront_0: -810720572
-      Pacfront_1: 940180241
+      P pallet flash_0: 1544107791
+      P pallet flash_1: 1662480796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
